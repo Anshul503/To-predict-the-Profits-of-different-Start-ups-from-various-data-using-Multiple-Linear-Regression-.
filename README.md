@@ -1,0 +1,2 @@
+# To-predict-the-Profits-of-different-Start-ups-from-various-data-using-Multiple-Linear-Regression-.
+This is some realistic case scenario where we have given a 50 startup dataset in which we have columns named : "R &amp; D Spend" "Administration" "Marketing" "State" "Profit"             Now we have to analyze the given dataset and using "Multiple Linear Regression" model , we have to predict the value of profit for any given data.
